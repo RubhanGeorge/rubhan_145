@@ -1,4 +1,4 @@
-# rubhan_145\
+# rubhan_145
 
 class: 3C\
 batch: C1\
